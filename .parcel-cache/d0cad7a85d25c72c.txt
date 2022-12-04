@@ -38,7 +38,7 @@
 44C:\PrpjectLessonJS\goit-js-hw-09\.htmlnanorc133106460800000000 0
 72C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\plugins\reusePaths.js133146104138008236 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\dotenv-expand\index.d.ts133146104121901396 0
-37C:\PrpjectLessonJS\goit-js-hw-09\dist133146127822921332 1
+37C:\PrpjectLessonJS\goit-js-hw-09\dist133146134170975247 1
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\normalize-path\LICENSE133146104121759770 0
 84C:\PrpjectLessonJS\goit-js-hw-09\node_modules\htmlnano\lib\modules\removeComments.js133146104131039449 0
 90C:\PrpjectLessonJS\goit-js-hw-09\node_modules\node-gyp-build-optional-packages\optional.js133146104123729639 0
@@ -165,7 +165,7 @@
 62C:\PrpjectLessonJS\goit-js-hw-09\node_modules\stable\stable.js133146104122725655 0
 47C:\PrpjectLessonJS\goit-js-hw-09\src\index.html133146095582224888 0
 51C:\PrpjectLessonJS\goit-js-hw-09\node_modules\fastq133146104128014872 1
-60C:\PrpjectLessonJS\goit-js-hw-09\src\js\01-color-switcher.js133146127819153929 0
+60C:\PrpjectLessonJS\goit-js-hw-09\src\js\01-color-switcher.js133146137767946048 0
 55C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@mischnic133146104108403215 1
 74C:\PrpjectLessonJS\goit-js-hw-09\node_modules\posthtml-render\package.json133146104122062175 0
 78C:\PrpjectLessonJS\goit-js-hw-09\node_modules\postcss-value-parser\lib\walk.js133146104124868963 0
@@ -262,7 +262,7 @@
 65C:\PrpjectLessonJS\goit-js-hw-09\node_modules\yaml\browser\seq.js133146104135542950 0
 56C:\PrpjectLessonJS\goit-js-hw-09\node_modules\color-name133146104122606039 1
 78C:\PrpjectLessonJS\goit-js-hw-09\node_modules\css-what\lib\commonjs\parse.d.ts133146104130607738 0
-71C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133146127822911350 0
+71C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133146134170965201 0
 76C:\PrpjectLessonJS\goit-js-hw-09\node_modules\type-fest\ts41\snake-case.d.ts133146104135250696 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\css-tree\lib\tokenizer\utils.js133146104140034121 0
 97C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133146104124628783 0
@@ -3127,7 +3127,7 @@
 63C:\PrpjectLessonJS\goit-js-hw-09\node_modules\anymatch\index.js133146104120500779 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FM.js133146104152323139 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FR.js133146104152514527 0
-67C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133146127822881538 0
+67C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133146134170933248 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GA.js133146104152535510 0
 102C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133146104120949174 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GB.js133146104152560258 0
