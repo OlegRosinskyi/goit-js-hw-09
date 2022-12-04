@@ -1,0 +1,2 @@
+!function(){var o=document.querySelectorAll("button"),e=document.querySelector("body"),l=null;console.log(o),console.log(o[0]),console.log(o[1]);o[0].addEventListener("click",(function(o){console.log("hello start"),l=setInterval((function(){e.style.background="#".concat(Math.floor(16777215*Math.random()).toString(16))}),1e3)})),o[1].addEventListener("click",(function(o){console.log("hello stop"),clearInterval(l)}))}();
+//# sourceMappingURL=01-color-switcher.baac5215.js.map
