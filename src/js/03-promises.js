@@ -1,11 +1,11 @@
 const formEl = document.querySelector('.form');
 const buttonEl = document.querySelector('button');
 //console.log(buttonEl);
-let dataForm = {
-  delayF: (delay = 0),
-  stepF: (step = 0),
-  amountF: (amount = 0),
-};
+
+let delayF = 0;
+let stepF = 0;
+let amountF = 0;
+
 const resultPromis = [];
 
 function createPromise(position, delay) {
@@ -55,14 +55,13 @@ const onSubmit = event => {
 
   // console.log(`email: ${email.value}, Password: ${password.value}`);
 
-  dataForm.delayF = delay.valueAsNumber;
-  dataForm.stepF = step.valueAsNumber;
-  dataForm.amountF = amount.valueAsNumber;
-  console.log(dataForm);
+  delayF = delay.valueAsNumber;
+  stepF = step.valueAsNumber;
+  amountF = amount.valueAsNumber;
 
-  for (let i = 1; i < dataForm.amountF + 1; i += 1) {
+  for (let i = 1; i < amountF + 1; i += 1) {
     resultPromis.push({});
-    createPromise(i, dataForm.delayF + dataForm.stepF * (i - 1));
+    createPromise(i, delayF + stepF * (i - 1));
   }
   event.currentTarget.reset();
 };
