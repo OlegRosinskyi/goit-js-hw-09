@@ -2,9 +2,9 @@ const formEl = document.querySelector('.form');
 const buttonEl = document.querySelector('button');
 //console.log(buttonEl);
 const dataForm = {
-  delay: (delay = 0),
-  step: (step = 0),
-  amount: (amount = 0),
+  delayF: (delayF = 0),
+  stepF: (stepF = 0),
+  amountF: (amountF = 0),
 };
 const resultPromis = [];
 
@@ -55,14 +55,14 @@ const onSubmit = event => {
 
   // console.log(`email: ${email.value}, Password: ${password.value}`);
 
-  dataForm.delay = delay.valueAsNumber;
-  dataForm.step = step.valueAsNumber;
-  dataForm.amount = amount.valueAsNumber;
+  dataForm.delayF = delay.valueAsNumber;
+  dataForm.stepF = step.valueAsNumber;
+  dataForm.amountF = amount.valueAsNumber;
   console.log(dataForm);
 
-  for (let i = 1; i < dataForm.amount + 1; i += 1) {
+  for (let i = 1; i < dataForm.amountF + 1; i += 1) {
     resultPromis.push({});
-    createPromise(i, dataForm.delay + dataForm.step * (i - 1));
+    createPromise(i, dataForm.delayF + dataForm.stepF * (i - 1));
   }
   event.currentTarget.reset();
 };
