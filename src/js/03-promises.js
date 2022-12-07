@@ -26,14 +26,14 @@ function createPromise(position, delay) {
     });
     promise.then(
       result => {
-        console.log(result);
+        //console.log(result);
         resultPromis[position - 1] = result;
         //resultPromis[position - 1].delay = result;
         // alert(`✅ "${result}"`);
         console.log(resultPromis);
       },
       error => {
-        console.log(error);
+        // console.log(error);
         // alert(`❌ "${error}"`);
         resultPromis[position - 1] = error;
         //resultPromis[position - 1].delay = error;
@@ -62,7 +62,7 @@ const onSubmit = event => {
 
   for (let i = 1; i < dataForm.amount + 1; i += 1) {
     resultPromis.push({});
-    createPromise(i, dataForm.delay + dataForm.step * i);
+    createPromise(i, dataForm.delay + dataForm.step * (i - 1));
   }
   event.currentTarget.reset();
 };
