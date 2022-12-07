@@ -1,7 +1,7 @@
 const formEl = document.querySelector('.form');
 const buttonEl = document.querySelector('button');
 //console.log(buttonEl);
-const dataForm = {
+let dataForm = {
   delayF: (delay = 0),
   stepF: (step = 0),
   amountF: (amount = 0),
