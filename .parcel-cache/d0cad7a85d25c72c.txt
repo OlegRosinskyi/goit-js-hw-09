@@ -42,7 +42,7 @@
 44C:\PrpjectLessonJS\goit-js-hw-09\.htmlnanorc133106460800000000 0
 72C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\plugins\reusePaths.js133146104138008236 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\dotenv-expand\index.d.ts133146104121901396 0
-37C:\PrpjectLessonJS\goit-js-hw-09\dist133147386731910605 1
+37C:\PrpjectLessonJS\goit-js-hw-09\dist133148980361322353 1
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\normalize-path\LICENSE133146104121759770 0
 84C:\PrpjectLessonJS\goit-js-hw-09\node_modules\htmlnano\lib\modules\removeComments.js133146104131039449 0
 120C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133146104139837975 0
@@ -60,7 +60,7 @@
 55C:\PrpjectLessonJS\goit-js-hw-09\node_modules\callsites133146104123569131 1
 58C:\PrpjectLessonJS\goit-js-hw-09\node_modules\chokidar\lib133146104124528302 1
 56C:\PrpjectLessonJS\goit-js-hw-09\node_modules\terser\lib133146104137562195 1
-51C:\PrpjectLessonJS\goit-js-hw-09\src\js\02-timer.js133147386728121869 0
+51C:\PrpjectLessonJS\goit-js-hw-09\src\js\02-timer.js133147936086860435 0
 90C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_field_set.js133146104139479726 0
 60C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist133147344352800753 1
 90C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@swc\helpers\src\_iterable_to_array_limit.js133146104140100886 0
@@ -127,7 +127,7 @@
 57C:\PrpjectLessonJS\goit-js-hw-09\node_modules\buffer-from133146104122616654 1
 96C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133146104130150861 0
 91C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\media-fragments.js133146104154091216 0
-51C:\PrpjectLessonJS\goit-js-hw-09\src\css\common.css133146095582694078 0
+51C:\PrpjectLessonJS\goit-js-hw-09\src\css\common.css133148701713084369 0
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\picomatch\lib\utils.js133146104125962370 0
 45C:\PrpjectLessonJS\goit-js-hw-09\README.uk.md133106460800000000 0
 76C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\plugins\removeMetadata.js133146104137264851 0
@@ -149,11 +149,11 @@
 98C:\PrpjectLessonJS\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-babel.development.js133146104122241456 0
 66C:\PrpjectLessonJS\goit-js-hw-09\node_modules\is-arrayish\index.js133146104123749969 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\packager-svg\lib133146104120580505 1
-50C:\PrpjectLessonJS\goit-js-hw-09\src\02-timer.html133146497181062398 0
+50C:\PrpjectLessonJS\goit-js-hw-09\src\02-timer.html133147936053194524 0
 108C:\PrpjectLessonJS\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed133146104137463963 1
 63C:\PrpjectLessonJS\goit-js-hw-09\node_modules\is-number\LICENSE133146104121769727 0
 71C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\bg.js133147344349599840 0
-53C:\PrpjectLessonJS\goit-js-hw-09\src\03-promises.html133146095582174793 0
+53C:\PrpjectLessonJS\goit-js-hw-09\src\03-promises.html133148701629127577 0
 87C:\PrpjectLessonJS\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133146104125239663 0
 82C:\PrpjectLessonJS\goit-js-hw-09\node_modules\fast-glob\out\managers\patterns.d.ts133146104136420853 0
 62C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\lib\xast.js133146104138744262 0
@@ -183,7 +183,7 @@
 78C:\PrpjectLessonJS\goit-js-hw-09\node_modules\postcss-value-parser\lib\walk.js133146104124868963 0
 88C:\PrpjectLessonJS\goit-js-hw-09\node_modules\utility-types\dist\aliases-and-guards.d.ts133146104129117464 0
 75C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\fi.js133147344350089600 0
-54C:\PrpjectLessonJS\goit-js-hw-09\src\js\03-promises.js133146095582537355 0
+54C:\PrpjectLessonJS\goit-js-hw-09\src\js\03-promises.js133148980895341703 0
 73C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\my.d.ts133147344352609355 0
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\mdn-data\l10n\index.js133146104124518257 0
 52C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@babel133146104108583310 1
@@ -277,7 +277,7 @@
 76C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\default.js133147344349997540 0
 65C:\PrpjectLessonJS\goit-js-hw-09\node_modules\yaml\browser\seq.js133146104135542950 0
 56C:\PrpjectLessonJS\goit-js-hw-09\node_modules\color-name133146104122606039 1
-71C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133147346019174821 0
+71C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133148733522774506 0
 76C:\PrpjectLessonJS\goit-js-hw-09\node_modules\type-fest\ts41\snake-case.d.ts133146104135250696 0
 97C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133146104124628783 0
 101C:\PrpjectLessonJS\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133146104140623550 0
@@ -356,7 +356,7 @@
 79C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\LICENSE133146104119987577 0
 71C:\PrpjectLessonJS\goit-js-hw-09\node_modules\chalk\source\templates.js133146104122117013 0
 79C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\plugins\removeHiddenElems.js133146104137175176 0
-60C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.html133147346019259574 0
+60C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.html133148733522721808 0
 64C:\PrpjectLessonJS\goit-js-hw-09\node_modules\dom-serializer\lib133146104129093739 1
 54C:\PrpjectLessonJS\goit-js-hw-09\node_modules\get-port133146104123514056 1
 74C:\PrpjectLessonJS\goit-js-hw-09\node_modules\nth-check\lib\esm\index.d.ts133146104130929155 0
@@ -660,7 +660,7 @@
 88C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\inline-block.js133146104153129711 0
 53C:\PrpjectLessonJS\goit-js-hw-09\node_modules\timsort133146104126038071 1
 60C:\PrpjectLessonJS\goit-js-hw-09\node_modules\to-regex-range133146104122504179 1
-58C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.f9388f03.js133147386731860311 0
+58C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.f9388f03.js133148764604010577 0
 71C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\is.js133147344350682045 0
 76C:\PrpjectLessonJS\goit-js-hw-09\node_modules\node-addon-api\tools\README.md133146104130773744 0
 51C:\PrpjectLessonJS\goit-js-hw-09\node_modules\tslib133146104127569183 1
@@ -1907,7 +1907,7 @@
 75C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\cy.js133147344349868000 0
 112C:\PrpjectLessonJS\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\file1.txt133146104135510177 0
 86C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@swc\helpers\lib\_non_iterable_spread.js133146104137502384 0
-62C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.f9388f03.js.map133147386731891051 0
+62C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.f9388f03.js.map133148764604010577 0
 115C:\PrpjectLessonJS\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\embed2133146104137658878 1
 102C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo133146104139047804 1
 118C:\PrpjectLessonJS\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\file2.txt133146104136816820 0
@@ -2701,7 +2701,7 @@
 71C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\ga.js133147344350244321 0
 62C:\PrpjectLessonJS\goit-js-hw-09\node_modules\fastq\example.js133146104121815247 0
 73C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\gr.d.ts133147344352307614 0
-67C:\PrpjectLessonJS\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133147346019174821 0
+67C:\PrpjectLessonJS\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133148733522502317 0
 73C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\he.d.ts133147344352328407 0
 73C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\hi.d.ts133147344352371336 0
 80C:\PrpjectLessonJS\goit-js-hw-09\node_modules\fast-glob\out\providers\async.d.ts133146104134890549 0
@@ -3446,7 +3446,7 @@
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FK.js133146104152284633 0
 63C:\PrpjectLessonJS\goit-js-hw-09\node_modules\anymatch\index.js133146104120500779 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FR.js133146104152514527 0
-67C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133147346019099618 0
+67C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133148733522721808 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GA.js133146104152535510 0
 102C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133146104120949174 0
 77C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GB.js133146104152560258 0
@@ -3903,7 +3903,7 @@
 80C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\ruby.js133146104155494944 0
 94C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\screen-orientation.js133146104155570771 0
 90C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\scrollintoview.js133146104155606606 0
-65C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133147346019174821 0
+65C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133148980361312312 0
 80C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\sdch.js133146104155653020 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@nodelib\fs.walk\LICENSE133146104119971602 0
 81C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\sha-2.js133146104155708484 0
@@ -4493,7 +4493,7 @@
 94C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133146104123480707 0
 124C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133146104139007719 0
 101C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source133146104139837975 1
-72C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133147346019174821 0
+72C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133148764604010577 0
 125C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133146104139810598 0
 124C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133146104138785283 0
 115C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133146104131218167 0
@@ -4989,12 +4989,12 @@
 61C:\PrpjectLessonJS\goit-js-hw-09\node_modules\.bin\semver.ps1133146104157700123 0
 59C:\PrpjectLessonJS\goit-js-hw-09\node_modules\.bin\svgo.cmd133146104157700123 0
 59C:\PrpjectLessonJS\goit-js-hw-09\node_modules\.bin\svgo.ps1133146104157700123 0
-68C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133147346019020222 0
-51C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.html133147346019249604 0
-61C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js133147346019094556 0
-54C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.html133147346019259574 0
-63C:\PrpjectLessonJS\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133147346019099618 0
-48C:\PrpjectLessonJS\goit-js-hw-09\dist\index.html133147346019259574 0
+68C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133148764604010577 0
+51C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.html133148733522764440 0
+61C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js133148980361301065 0
+54C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.html133148733522597188 0
+63C:\PrpjectLessonJS\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133148733522468599 0
+48C:\PrpjectLessonJS\goit-js-hw-09\dist\index.html133148733522597188 0
 65C:\PrpjectLessonJS\goit-js-hw-09\assets\actions-config-step-1.png133106460800000000 0
 56C:\PrpjectLessonJS\goit-js-hw-09\assets\how-it-works.png133106460800000000 0
 57C:\PrpjectLessonJS\goit-js-hw-09\assets\repo-settings.png133106460800000000 0
