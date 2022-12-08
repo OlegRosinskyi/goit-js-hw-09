@@ -37,5 +37,11 @@ font-size: 24px;
 .label_my{
   font-size: 12px;
 }
-
-
+.button{
+  background-color: #ebf3f8f5;
+    text-transform: uppercase;
+    box-shadow: none;
+    border-radius: 0px;
+    color: black;
+    z-index: 0;
+}
