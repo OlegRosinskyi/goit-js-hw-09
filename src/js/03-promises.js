@@ -5,11 +5,11 @@ const buttonEl = document.querySelector('button');
 const resultPromis = [];
 
 function createPromise(position, delay) {
-  setTimeout(() => {
-    const shouldResolve = Math.random() > 0.3;
-    //console.log(shouldResolve);
+  const shouldResolve = Math.random() > 0.3;
+  //console.log(shouldResolve);
 
-    const promise = new Promise((resolve, reject) => {
+  const promise = new Promise((resolve, reject) => {
+    setTimeout(() => {
       if (shouldResolve) {
         //resolve(`✅ Fulfilled promise ${position} in ${delay}ms`); // Fulfill
         //resolve(position)(delay);
@@ -19,8 +19,11 @@ function createPromise(position, delay) {
         // resolve(position);
         resolve({ position: position, delay: delay });
       }
-    });
-    promise.then(
+    }, delay);
+  });
+
+  promise
+    .then(
       result => {
         //console.log(result);
         resultPromis[position - 1] = result;
@@ -35,8 +38,8 @@ function createPromise(position, delay) {
         //resultPromis[position - 1].delay = error;
         console.log(resultPromis);
       }
-    );
-  }, delay);
+    )
+    .catch(err => console.log(err));
 }
 
 const onSubmit = event => {
