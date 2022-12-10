@@ -42,7 +42,7 @@
 44C:\PrpjectLessonJS\goit-js-hw-09\.htmlnanorc133106460800000000 0
 72C:\PrpjectLessonJS\goit-js-hw-09\node_modules\svgo\plugins\reusePaths.js133146104138008236 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\dotenv-expand\index.d.ts133146104121901396 0
-37C:\PrpjectLessonJS\goit-js-hw-09\dist133151275273515338 1
+37C:\PrpjectLessonJS\goit-js-hw-09\dist133151280889631580 1
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\normalize-path\LICENSE133146104121759770 0
 84C:\PrpjectLessonJS\goit-js-hw-09\node_modules\htmlnano\lib\modules\removeComments.js133146104131039449 0
 120C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133146104139837975 0
@@ -183,7 +183,7 @@
 78C:\PrpjectLessonJS\goit-js-hw-09\node_modules\postcss-value-parser\lib\walk.js133146104124868963 0
 88C:\PrpjectLessonJS\goit-js-hw-09\node_modules\utility-types\dist\aliases-and-guards.d.ts133146104129117464 0
 75C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\fi.js133147344350089600 0
-54C:\PrpjectLessonJS\goit-js-hw-09\src\js\03-promises.js133151275269646829 0
+54C:\PrpjectLessonJS\goit-js-hw-09\src\js\03-promises.js133151280885952028 0
 73C:\PrpjectLessonJS\goit-js-hw-09\node_modules\flatpickr\dist\l10n\my.d.ts133147344352609355 0
 68C:\PrpjectLessonJS\goit-js-hw-09\node_modules\mdn-data\l10n\index.js133146104124518257 0
 52C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@babel133146104108583310 1
@@ -3903,7 +3903,7 @@
 80C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\ruby.js133146104155494944 0
 94C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\screen-orientation.js133146104155570771 0
 90C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\scrollintoview.js133146104155606606 0
-65C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133151275273475495 0
+65C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133151280889622087 0
 80C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\sdch.js133146104155653020 0
 70C:\PrpjectLessonJS\goit-js-hw-09\node_modules\@nodelib\fs.walk\LICENSE133146104119971602 0
 81C:\PrpjectLessonJS\goit-js-hw-09\node_modules\caniuse-lite\data\features\sha-2.js133146104155708484 0
@@ -4991,7 +4991,7 @@
 59C:\PrpjectLessonJS\goit-js-hw-09\node_modules\.bin\svgo.ps1133146104157700123 0
 68C:\PrpjectLessonJS\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133151270194637104 0
 51C:\PrpjectLessonJS\goit-js-hw-09\dist\02-timer.html133148733522764440 0
-61C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js133151275273435677 0
+61C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.cd58c9ff.js133151280889601618 0
 54C:\PrpjectLessonJS\goit-js-hw-09\dist\03-promises.html133148733522597188 0
 63C:\PrpjectLessonJS\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133148733522468599 0
 48C:\PrpjectLessonJS\goit-js-hw-09\dist\index.html133148733522597188 0

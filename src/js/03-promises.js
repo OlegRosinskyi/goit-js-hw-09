@@ -17,29 +17,23 @@ function createPromise(position, delay) {
       } else {
         //reject(`❌ Rejected promise ${position} in ${delay}ms`); // Reject
         // resolve(position);
-        resolve({ position: position, delay: delay });
+        reject({ position: position, delay: delay });
       }
     }, delay);
   });
 
   promise
-    .then(
-      result => {
-        //console.log(result);
-        resultPromis[position - 1] = result;
-        //resultPromis[position - 1].delay = result;
-        // alert(`✅ "${result}"`);
-        console.log(resultPromis);
-      },
-      error => {
-        // console.log(error);
-        // alert(`❌ "${error}"`);
-        resultPromis[position - 1] = error;
-        //resultPromis[position - 1].delay = error;
-        console.log(resultPromis);
-      }
-    )
-    .catch(err => console.log(err));
+    .then(result => {
+      //console.log(result);
+      resultPromis[position - 1] = result;
+      //resultPromis[position - 1].delay = result;
+      // alert(`✅ "${result}"`);
+      console.log(resultPromis);
+    })
+    .catch(error => {
+      resultPromis[position - 1] = error;
+      console.log(resultPromis);
+    });
 }
 
 const onSubmit = event => {
