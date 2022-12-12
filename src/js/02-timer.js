@@ -31,6 +31,10 @@ labelEls.forEach(labelEl => {
   labelEl.classList.add('label_my');
 });
 
+//buttonEl.style.color = 'gray';
+buttonEl.classList.add('disabled');
+//console.log(buttonEl.classList.contains('button:hover'));
+//buttonEl.classList.remove('hover note');
 // 2. створюємо константи: Одна хвилина, одна година, один день
 const oneMinute = 1000 * 60;
 const oneHour = oneMinute * 60;
@@ -67,6 +71,10 @@ const callback = () => {
   const todayDate = new Date();
   const diff = selectData - todayDate;
   if (diff >= 0) {
+    //buttonEl.style.color = 'gray';
+    buttonEl.classList.add('disabled');
+    inputEl.classList.add('disabled');
+
     const days = Math.floor(diff / oneDay);
     const hours = Math.floor((diff % oneDay) / oneHour);
     const minutes = Math.floor((diff % oneHour) / oneMinute);
@@ -78,3 +86,13 @@ const callback = () => {
     secondsRef.textContent = seconds.toString().padStart(2, '0');
   } else clearTimeout(idSetInterval);
 };
+const onInputData = () => {
+  const todayDate = new Date();
+  const diff = selectData - todayDate;
+  //if (diff > 0) {
+  buttonEl.style.color = 'black';
+  buttonEl.classList.remove('disabled');
+  //}
+};
+
+inputEl.addEventListener('click', onInputData);

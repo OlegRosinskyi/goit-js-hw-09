@@ -15,9 +15,15 @@ img {
   display: block;
   max-width: 100%;
 }
-.button_my{
-    color: rgb(138, 132, 132);
-  }
+.button_my {
+  color: rgb(138, 132, 132);
+}
+
+.disabled {
+  pointer-events: none;
+  /* <----------- */
+ opacity: 0.5;
+}
 .timer_my{
   display: flex;
   flex-wrap: wrap;
@@ -37,11 +43,14 @@ font-size: 24px;
 .label_my{
   font-size: 12px;
 }
+
+
+
 .button{
   background-color: #ebf3f8f5;
     text-transform: uppercase;
     box-shadow: none;
     border-radius: 0px;
-    color: black;
+    color: gray;
     z-index: 0;
 }
