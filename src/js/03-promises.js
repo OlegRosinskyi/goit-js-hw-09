@@ -29,7 +29,6 @@ const onSubmit = event => {
     return alert('Заповнить всі поля форми>');
   }
 
-  // console.log(`email: ${email.value}, Password: ${password.value}`);
   const delayF = delay.valueAsNumber;
   const stepF = step.valueAsNumber;
   const amountF = amount.valueAsNumber;
